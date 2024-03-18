@@ -2,7 +2,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    color: #333;
+    color: #ebe2e2;
 }
 
 .container {
@@ -32,14 +32,29 @@ section h2 {
     font-size: 1.5em;
 }
 
-ul {
+nav ul {
     list-style: none;
+    display: flex;
+    margin: 0;
     padding: 0;
 }
 
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
 footer {
-    background: #333;
+    background: #786d6d;
     color: #fff;
-    text-align: center;
+    text-align: justify;
     padding: 10px 0;
 }
