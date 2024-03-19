@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +12,6 @@ permalink: /about/
 </head>
 <body>
     <div id="about-me">
-        <h2>About Me</h2>
         <p>I am Apurva Modh, an accomplished Network Engineer and Site Reliability Engineer with a robust background in network design, automation, and reliability. My expertise spans over seven years in designing and automating networks, where I have gained proficiency in Python, Go-lang, shell, and NetConf, along with a deep understanding of core routing technologies such as OSPF, ISIS, BGP, MPLS, RSVP, PIM, and MSDP.</p>
 
             <p>In my career, I have developed a strong command over data center technologies, including STP, EVPN/VxLAN, VRRP, LLDP, and MLAG, and have honed my skills in network security with experiences in IPSec, GRE, and Zero Trust Networking. My role at Juniper Networks Canada as a Technical Support Engineer involved leading support for ISP, Enterprise, and Data Center networks, focusing on EVPN/VxLAN, BGP, MPLS VPN, STP, and Zero Touch Automation, where I spearheaded automation projects and led coordination for bug fixes with the engineering team.</p>
