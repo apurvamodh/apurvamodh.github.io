@@ -21,18 +21,26 @@ permalink: /about/
             <p>I hold professional certifications including JNCIP-SP, CCNP, CCNA, JNCIS-SP, and JNCIA, which underscore my technical proficiency and dedication to the field. My educational background, with a Bachelor of Engineering in Electronics and Communication, further solidifies my foundation in the tech industry, enabling me to drive success in highly demanding and dynamic environments.</p>
     </div>
 </body>
-<section class="experience">
-    <div class="container">
-        <h2>Experience</h2>
-        <ul>
-            <li>
-                <h3>Job Title at Company Name</h3>
-                <p>Job description, responsibilities, and achievements.</p>
-            </li>
-            <!-- Repeat for other experiences -->
-        </ul>
-    </div>
-</section>
+<section id="professional-experience">
+        <h2>Professional Experience</h2>
+        <article>
+            <h3>Technical Support Engineer 4 | Juniper Networks Canada</h3>
+            <p>June 2023 - Present</p>
+            <ul>
+                <li>Spearhead ISP Enterprise and Data Center support enhancing EVPN/VXLAN BGP MPLS VPN STP and Zero Touch Automation.</li>
+                <li>Lead automation projects lab replication coordinate with Juniper Engineering team for bug fixes.</li>
+            </ul>
+        </article>
+        <article>
+            <h3>Site Reliability Engineer | Google Canada/Australia</h3>
+            <p>Apr 2021 - April 2023</p>
+            <ul>
+                <li>Managed a high-throughput (~110 million QPS) distributed system achieving <10ms latency at the 99th percentile.</li>
+                <li>Implemented the SRE principles in networking automating software installations and BGP peering setups.</li>
+            </ul>
+        </article>
+        <!-- Add more experiences as needed -->
+    </section>
 
 <section class="skills">
     <div class="container">
@@ -49,8 +57,8 @@ permalink: /about/
 <section class="contact">
     <div class="container">
         <h2>Contact</h2>
-        <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-        <p>Phone: Your phone number</p>
+        <p>Email: <a href="mailto:modh.apurva@gmail.com">modh.apurva@gmail.com</a></p>
+        <p>Phone: +1 5198975448</p>
         <!-- Add more contact details as necessary -->
     </div>
 </section>
