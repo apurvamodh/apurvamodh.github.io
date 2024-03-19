@@ -21,9 +21,7 @@
 title: Apurva Modh
 email: modh.apurva@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to the professional world of Apurva Modh, a seasoned Network and Site Reliability Engineer. Dive into my portfolio to explore a rich journey through cutting-edge network designs, automation, and reliable system architectures. Discover how I blend expertise in core routing, data center technologies, and network security with innovative solutions in Google Cloud and other platforms. This site showcases my technical prowess, project highlights, and insights into the IT landscape, reflecting a commitment to excellence and a passion for pushing technological boundaries. Join me in navigating the complexities of modern networking and site reliability, where each page unfolds a story of challenges met with skill and strategic acumen.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
